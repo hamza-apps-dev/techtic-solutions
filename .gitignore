@@ -1,0 +1,14 @@
+# Ignore video files
+*.mp4
+*.webm
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
