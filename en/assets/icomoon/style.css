@@ -1,0 +1,159 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?occ0wi');
+  src:  url('fonts/icomoon.eot?occ0wi#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?occ0wi') format('truetype'),
+    url('fonts/icomoon.woff?occ0wi') format('woff'),
+    url('fonts/icomoon.svg?occ0wi#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pattern-hor:before {
+  content: "\e929";
+}
+.icon-pattern-ver:before {
+  content: "\e92a";
+}
+.icon-pattern-single:before {
+  content: "\e92b";
+}
+.icon-X-Twitter-logo:before {
+  content: "\e928";
+}
+.icon-upload:before {
+  content: "\e927";
+}
+.icon-trust-1:before {
+  content: "\e925";
+}
+.icon-leadership-1:before {
+  content: "\e926";
+}
+.icon-Vision-2030:before {
+  content: "\e920";
+}
+.icon-yoe:before {
+  content: "\e922";
+}
+.icon-diverse-projects:before {
+  content: "\e923";
+}
+.icon-strategic-clients:before {
+  content: "\e924";
+}
+.icon-Group-1483:before {
+  content: "\e921";
+}
+.icon-ownership-2:before {
+  content: "\e91d";
+}
+.icon-leadership:before {
+  content: "\e91e";
+}
+.icon-integrity-1:before {
+  content: "\e91f";
+}
+.icon-link-icon:before {
+  content: "\e91c";
+}
+.icon-filter-icon:before {
+  content: "\e91b";
+}
+.icon-top-icon:before {
+  content: "\e91a";
+}
+.icon-quote-icon:before {
+  content: "\e919";
+}
+.icon-Group-1698:before {
+  content: "\e918";
+}
+.icon-pipeline-icon:before {
+  content: "\e917";
+}
+.icon-engg-iconGroup-1469:before {
+  content: "\e90f";
+}
+.icon-facility-icon:before {
+  content: "\e910";
+}
+.icon-specialized-icon:before {
+  content: "\e911";
+}
+.icon-double-icon:before {
+  content: "\e912";
+}
+.icon-transport-icon:before {
+  content: "\e913";
+}
+.icon-road-icon:before {
+  content: "\e914";
+}
+.icon-ground-icon:before {
+  content: "\e915";
+}
+.icon-oil-gas-icon:before {
+  content: "\e916";
+}
+.icon-ain-icon:before {
+  content: "\e90e";
+}
+.icon-right-arrow:before {
+  content: "\e900";
+}
+.icon-square-icon:before {
+  content: "\e901";
+}
+.icon-down-angle:before {
+  content: "\e902";
+}
+.icon-customers-icon:before {
+  content: "\e903";
+}
+.icon-safety-icon:before {
+  content: "\e904";
+}
+.icon-integrity-icon:before {
+  content: "\e905";
+}
+.icon-teamwork-icon:before {
+  content: "\e906";
+}
+.icon-ownership-icon:before {
+  content: "\e907";
+}
+.icon-social-responsibility:before {
+  content: "\e908";
+}
+.icon-quality-icon:before {
+  content: "\e909";
+}
+.icon-stable-icon:before {
+  content: "\e90a";
+}
+.icon-home-icon:before {
+  content: "\e90b";
+}
+.icon-search-icon:before {
+  content: "\e90c";
+}
+.icon-share-icon:before {
+  content: "\e90d";
+}
